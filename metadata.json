@@ -1,0 +1,5 @@
+{
+  "name": "AI Business Intelligence Analyst",
+  "description": "An AI agent that automates company operational status research. The agent analyzes public information to determine if companies are active or inactive and presents the findings in a structured table.",
+  "requestFramePermissions": []
+}
